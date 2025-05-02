@@ -10,3 +10,5 @@ This is a normal paragraph
 - list 2
 
 ![An image of a cat](https://placekitten.com/200/300)
+
+[Link Text](http://www.google.com)
