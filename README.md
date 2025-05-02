@@ -12,3 +12,9 @@ This is a normal paragraph
 ![An image of a cat](https://placekitten.com/200/300)
 
 [Link Text](http://www.google.com)
+
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
