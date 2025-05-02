@@ -1,6 +1,6 @@
 # Tyan0046_9103_tut09
 
-## Demonstrating markup language
+## Demonstrating markdown language
 
 ### level 3 heading
 
