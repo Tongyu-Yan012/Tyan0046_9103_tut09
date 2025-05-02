@@ -9,5 +9,4 @@ This is a normal paragraph
 - list 1
 - list 2
 
-![An image of a cat](https://placekitten.com/200/300
-Links to an external site.)
+![An image of a cat](https://placekitten.com/200/300)
