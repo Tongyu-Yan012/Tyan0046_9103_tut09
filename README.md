@@ -5,3 +5,6 @@
 ### level 3 heading
 
 This is a normal paragraph
+
+- list 1
+- list 2
