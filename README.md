@@ -49,4 +49,4 @@ for (float angle = 0; angle < 360*100; angle += .1) {
   distance += distanceChange;
 }
 ```
-####  This code generates spiral circles with random colors. I can learn this code and use it to generate arcs instead of full circles.####
+####  This code generates spiral circles with random colors. I can learn this code and use it to generate arcs instead of full circles.
